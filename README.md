@@ -1,3 +1,3 @@
 # library
 ryupepe's library is here.
-I wrote all of it for myself.
+I wrote it all myself.
