@@ -1,4 +1,4 @@
-void dijkstra(const WGraph &graph,int s,vll &dis,vll &prev){
+void dijkstra(const WGraph &graph,int s,vll &dis,vi &prev){
   int n=graph.size();
   dis.resize(n,INF);
   prev.resize(n,-1);
